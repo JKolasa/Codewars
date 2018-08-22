@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c538518d-3513-4711-bf63-31da8cc936ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/ConvertNumberToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/ConvertNumberToStringTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,48 +21,41 @@
     <session id="1880688535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
-          <entry key="java" value="2197" />
-          <entry key="txt" value="10" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="2345" />
+          <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2197" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="2345" />
+          <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/HelpTheFruitGuy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/CenturyFromYearTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,30 +82,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="323">
               <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/ConvertNumberToStringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#514#515#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/ConvertNumberToString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="85">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -127,6 +137,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -143,6 +154,8 @@
         <option value="$PROJECT_DIR$/src/main/java/kyu8/CenturyFromYear.java" />
         <option value="$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu8/ConvertNumberToString.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/ConvertNumberToStringTest.java" />
       </list>
     </option>
   </component>
@@ -182,6 +195,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -316,15 +331,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534876761927" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JAVA SDA Kurs/2018-02-17 - TDD/tdd-zajecia/tddsklepwino/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534957812730" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -333,6 +346,7 @@
       <recent name="kyu8" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="kyu8" />
       <recent name="kyu7" />
     </key>
   </component>
@@ -348,17 +362,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ReverseNumberTest.zeroTest">
-    <configuration name="ReverseNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConvertNumberToStringTest.zeroTest">
+    <configuration name="ConvertNumberToStringTest.negativeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.ReverseNumberTest" />
+      <option name="PACKAGE_NAME" value="kyu8" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.ConvertNumberToStringTest" />
+      <option name="METHOD_NAME" value="negativeNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertNumberToStringTest.positiveNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kyu8" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.ConvertNumberToStringTest" />
+      <option name="METHOD_NAME" value="positiveNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertNumberToStringTest.zeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kyu8" />
+      <option name="MAIN_CLASS_NAME" value="kyu8.ConvertNumberToStringTest" />
+      <option name="METHOD_NAME" value="zeroTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -374,38 +422,6 @@
       <option name="PACKAGE_NAME" value="kyu7" />
       <option name="MAIN_CLASS_NAME" value="kyu7.ReverseNumberTest" />
       <option name="METHOD_NAME" value="reverseFullMinusThousand" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumberTest.reverseFullThousand" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.ReverseNumberTest" />
-      <option name="METHOD_NAME" value="reverseFullThousand" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseNumberTest.reverseNegativeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.ReverseNumberTest" />
-      <option name="METHOD_NAME" value="reverseNegativeNumber" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -428,19 +444,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ReverseNumberTest" />
-      <item itemvalue="JUnit.ReverseNumberTest.reverseNegativeNumber" />
-      <item itemvalue="JUnit.ReverseNumberTest.reverseFullThousand" />
       <item itemvalue="JUnit.ReverseNumberTest.reverseFullMinusThousand" />
       <item itemvalue="JUnit.ReverseNumberTest.zeroTest" />
+      <item itemvalue="JUnit.ConvertNumberToStringTest.positiveNumberTest" />
+      <item itemvalue="JUnit.ConvertNumberToStringTest.negativeNumberTest" />
+      <item itemvalue="JUnit.ConvertNumberToStringTest.zeroTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConvertNumberToStringTest.zeroTest" />
+        <item itemvalue="JUnit.ConvertNumberToStringTest.negativeNumberTest" />
+        <item itemvalue="JUnit.ConvertNumberToStringTest.positiveNumberTest" />
         <item itemvalue="JUnit.ReverseNumberTest.zeroTest" />
         <item itemvalue="JUnit.ReverseNumberTest.reverseFullMinusThousand" />
-        <item itemvalue="JUnit.ReverseNumberTest.reverseFullThousand" />
-        <item itemvalue="JUnit.ReverseNumberTest" />
-        <item itemvalue="JUnit.ReverseNumberTest.reverseNegativeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +472,8 @@
       <updated>1534054620724</updated>
       <workItem from="1534054625236" duration="8472000" />
       <workItem from="1534668468075" duration="3438000" />
-      <workItem from="1534873000697" duration="3961000" />
+      <workItem from="1534873000697" duration="4601000" />
+      <workItem from="1534957139771" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1534874084582</created>
@@ -465,19 +482,17 @@
       <option name="project" value="LOCAL" />
       <updated>1534874084582</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kyu 7 - Reverse Number">
+      <created>1534876994621</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1534876994621</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CenturyFromYearTest - 2018.08.19 at 12h 11m 09s.xml">
-      <configuration name="CenturyFromYearTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseNumberTest - 2018.08.21 at 20h 16m 35s.xml">
-      <configuration name="ReverseNumberTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseNumberTest - 2018.08.21 at 20h 20m 55s.xml">
-      <configuration name="ReverseNumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReverseNumberTest_reverseNegativeNumber - 2018.08.21 at 20h 23m 11s.xml">
       <configuration name="ReverseNumberTest.reverseNegativeNumber" configurationId="JUnit" />
     </history-entry>
@@ -499,14 +514,23 @@
     <history-entry file="ReverseNumberTest_zeroTest - 2018.08.21 at 20h 39m 05s.xml">
       <configuration name="ReverseNumberTest.zeroTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ConvertNumberToStringTest_positiveNumberTest - 2018.08.22 at 19h 05m 25s.xml">
+      <configuration name="ConvertNumberToStringTest.positiveNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConvertNumberToStringTest_negativeNumberTest - 2018.08.22 at 19h 05m 54s.xml">
+      <configuration name="ConvertNumberToStringTest.negativeNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ConvertNumberToStringTest_zeroTest - 2018.08.22 at 19h 06m 22s.xml">
+      <configuration name="ConvertNumberToStringTest.zeroTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15871000" />
+    <option name="totallyTimeSpent" value="17183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.152349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18590604" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -516,12 +540,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36737588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2212766" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -572,7 +596,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit" />
+    <MESSAGE value="kyu 7 - Reverse Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="kyu 7 - Reverse Number" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/DoIGetABonusTest.java">
@@ -624,6 +649,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../JAVA SDA Kurs/2018-02-17 - TDD/junitstart/src/main/java/pl/sda/junit/Kalkulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/CenturyFromYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/HelpTheFruitGuy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/CenturyFromYearTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -636,55 +703,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/CenturyFromYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../JAVA SDA Kurs/2018-02-17 - TDD/junitstart/src/main/java/pl/sda/junit/Kalkulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/HelpTheFruitGuy.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/ConvertNumberToStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#568#569#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/ReverseNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/ConvertNumberToString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="85">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
         </state>
       </provider>
     </entry>
