@@ -25,4 +25,18 @@ public class RemoveNExclamationMarksFromLeft {
 
         return newS;
     }
+
+    public static String removeMethodTwo(String s, int n) {
+
+        while (n > 0){
+
+            if(s.contains("!")){
+                s = s.replaceFirst("!","");
+            }
+
+            n --;
+        }
+
+        return s;
+    }
 }
