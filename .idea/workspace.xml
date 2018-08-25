@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c538518d-3513-4711-bf63-31da8cc936ff" name="Default Changelist" comment="">
+    <list default="true" id="c538518d-3513-4711-bf63-31da8cc936ff" name="Default Changelist" comment="kyu 8 - Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/kyu8/RemoveNExclamationMarksFromLeftTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/kyu8/RemoveNExclamationMarksFromLeftTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,12 +20,13 @@
     <session id="1880688535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,13 +42,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="2952" />
+          <entry key="java" value="2960" />
           <entry key="txt" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2952" />
+          <entry key="JAVA" value="2960" />
           <entry key="PLAIN_TEXT" value="71" />
         </counts>
       </usages-collector>
@@ -59,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="323">
               <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/ConvertNumberToStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="221">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -95,32 +95,28 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/ConvertNumberToString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/RemoveNExclamationMarksFromLeftTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-              </folding>
+              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/RemoveNExclamationMarksFromLeftTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="317">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -195,9 +191,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -336,10 +332,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535136159755" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535222401845" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JAVA SDA Kurs/2018-06-30 - Projekt grupowy/AWYSS/awyss" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -472,7 +469,9 @@
       <workItem from="1534668468075" duration="3438000" />
       <workItem from="1534873000697" duration="4601000" />
       <workItem from="1534957139771" duration="1379000" />
-      <workItem from="1535132586159" duration="3448000" />
+      <workItem from="1535132586159" duration="4273000" />
+      <workItem from="1535222453187" duration="1304000" />
+      <workItem from="1535226523945" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1534874084582</created>
@@ -502,22 +501,17 @@
       <option name="project" value="LOCAL" />
       <updated>1535135879296</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="kyu 8 - Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right">
+      <created>1535136176856</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1535136176856</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveNExclamationMarksFromLeftTest - 2018.08.24 at 20h 22m 15s.xml">
-      <configuration name="RemoveNExclamationMarksFromLeftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveNExclamationMarksFromLeftTest - 2018.08.24 at 20h 22m 39s.xml">
-      <configuration name="RemoveNExclamationMarksFromLeftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveNExclamationMarksFromLeftTest - 2018.08.24 at 20h 26m 59s.xml">
-      <configuration name="RemoveNExclamationMarksFromLeftTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveNExclamationMarksFromLeftTest - 2018.08.24 at 20h 28m 58s.xml">
-      <configuration name="RemoveNExclamationMarksFromLeftTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RemoveNExclamationMarksFromLeftTest - 2018.08.24 at 20h 29m 07s.xml">
       <configuration name="RemoveNExclamationMarksFromLeftTest" configurationId="JUnit" />
     </history-entry>
@@ -536,15 +530,27 @@
     <history-entry file="RemoveNExclamationMarksFromLeftTest_remove7exclamations - 2018.08.24 at 20h 38m 41s.xml">
       <configuration name="RemoveNExclamationMarksFromLeftTest.remove7exclamations" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RemoveNExclamationMarksFromLeftTest_remove3exclamationsMethodTwo - 2018.08.24 at 20h 41m 27s.xml">
+      <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveNExclamationMarksFromLeftTest_remove3exclamationsMethodTwo - 2018.08.24 at 20h 41m 42s.xml">
+      <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveNExclamationMarksFromLeftTest_remove3exclamationsMethodTwo - 2018.08.24 at 20h 42m 30s.xml">
+      <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveNExclamationMarksFromLeftTest_remove3exclamationsMethodTwo - 2018.08.24 at 20h 42m 42s.xml">
+      <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21338000" />
+    <option name="totallyTimeSpent" value="24151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1885906" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19395973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -554,7 +560,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44113475" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -665,11 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -682,7 +683,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/ReverseNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="323">
           <caret line="30" column="47" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -699,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/ConvertNumberToStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="221">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -712,28 +713,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/ConvertNumberToString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="38" column="8" lean-forward="true" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/RemoveNExclamationMarksFromLeftTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="221">
           <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
         </state>
       </provider>
     </entry>
