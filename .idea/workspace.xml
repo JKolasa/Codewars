@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c538518d-3513-4711-bf63-31da8cc936ff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu8/TwiceAsOld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/TwiceAsOldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu7/FormTheMinimum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu7/Isogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu7/FromTheMinimumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu7/IsogramsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu8/KwadratyLiczbZJednejTablicyDoDrugiej.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kyu7/HelpTheFruitGuy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kyu7/HelpTheFruitGuy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kyu8/CenturyFromYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kyu8/CenturyFromYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/kyu8/DoIGetABonus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/kyu8/DoIGetABonus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kyu7/HelpTheFruitGuyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kyu7/HelpTheFruitGuyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kyu8/CenturyFromYearTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kyu8/CenturyFromYearTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/kyu8/DoIGetABonusTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/kyu8/DoIGetABonusTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,37 +31,38 @@
     <session id="1880688535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.14" value="3" />
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="3263" />
-          <entry key="txt" value="66" />
+          <entry key="java" value="4890" />
+          <entry key="txt" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3263" />
-          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="JAVA" value="4890" />
+          <entry key="PLAIN_TEXT" value="96" />
         </counts>
       </usages-collector>
     </session>
@@ -62,30 +72,71 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/TwiceAsOldTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="374">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#448#449#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/TwiceAsOld.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/IsogramsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#113#114#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#332#333#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#615#616#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/TwiceAsOld.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/Isogram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="272">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/FromTheMinimumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +174,12 @@
         <option value="$PROJECT_DIR$/src/main/java/kyu8/RemoveNExclamationMarksFromLeft.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu8/TwiceAsOldTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/kyu8/TwiceAsOld.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu7/FromTheMinimumTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu7/FormTheMinimum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu7/KwadratyLiczbZJednejTablicyDoDrugiej.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu8/KwadratyLiczbZJednejTablicyDoDrugiej.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu7/Isogram.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu7/IsogramsTest.java" />
       </list>
     </option>
   </component>
@@ -303,7 +360,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535569312275" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536335834490" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JAVA SDA Kurs/2018-06-30 - Projekt grupowy/AWYSS/awyss" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -314,8 +371,8 @@
       <recent name="kyu8" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="kyu8" />
       <recent name="kyu7" />
+      <recent name="kyu8" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,8 +387,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TwiceAsOldTest.oneIsLessThanZero">
-    <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.IsogramsTest">
+    <configuration name="KwadratyLiczbZJednejTablicyDoDrugiej" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kyu8.KwadratyLiczbZJednejTablicyDoDrugiej" />
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
@@ -339,90 +397,86 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.RemoveNExclamationMarksFromLeftTest" />
-      <option name="METHOD_NAME" value="remove3exclamationsMethodTwo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FromTheMinimumTest.withDuplicatesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kyu8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kyu7" />
+      <option name="MAIN_CLASS_NAME" value="kyu7.FromTheMinimumTest" />
+      <option name="METHOD_NAME" value="withDuplicatesTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwiceAsOldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsogramsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.*" />
+          <option name="PATTERN" value="kyu7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.TwiceAsOldTest" />
+      <option name="PACKAGE_NAME" value="kyu7" />
+      <option name="MAIN_CLASS_NAME" value="kyu7.IsogramsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwiceAsOldTest.bothZeroAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsogramsTest.dermatoglyphicsTestGivesTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.*" />
+          <option name="PATTERN" value="kyu7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.TwiceAsOldTest" />
-      <option name="METHOD_NAME" value="bothZeroAge" />
+      <option name="PACKAGE_NAME" value="kyu7" />
+      <option name="MAIN_CLASS_NAME" value="kyu7.IsogramsTest" />
+      <option name="METHOD_NAME" value="dermatoglyphicsTestGivesTrue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwiceAsOldTest.oneIsLessThanZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IsogramsTest.isogramStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu8.*" />
+          <option name="PATTERN" value="kyu7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu8" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.TwiceAsOldTest" />
-      <option name="METHOD_NAME" value="oneIsLessThanZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwiceAsOldTest.testPositiveAge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="kyu8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="kyu8" />
-      <option name="MAIN_CLASS_NAME" value="kyu8.TwiceAsOldTest" />
-      <option name="METHOD_NAME" value="testPositiveAge" />
+      <option name="PACKAGE_NAME" value="kyu7" />
+      <option name="MAIN_CLASS_NAME" value="kyu7.IsogramsTest" />
+      <option name="METHOD_NAME" value="isogramStringTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" />
-      <item itemvalue="JUnit.TwiceAsOldTest.testPositiveAge" />
-      <item itemvalue="JUnit.TwiceAsOldTest" />
-      <item itemvalue="JUnit.TwiceAsOldTest.bothZeroAge" />
-      <item itemvalue="JUnit.TwiceAsOldTest.oneIsLessThanZero" />
+      <item itemvalue="JUnit.FromTheMinimumTest.withDuplicatesTest" />
+      <item itemvalue="Application.KwadratyLiczbZJednejTablicyDoDrugiej" />
+      <item itemvalue="JUnit.IsogramsTest.isogramStringTest" />
+      <item itemvalue="JUnit.IsogramsTest" />
+      <item itemvalue="JUnit.IsogramsTest.dermatoglyphicsTestGivesTrue" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TwiceAsOldTest.oneIsLessThanZero" />
-        <item itemvalue="JUnit.TwiceAsOldTest.bothZeroAge" />
-        <item itemvalue="JUnit.TwiceAsOldTest" />
-        <item itemvalue="JUnit.TwiceAsOldTest.testPositiveAge" />
-        <item itemvalue="JUnit.RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" />
+        <item itemvalue="JUnit.IsogramsTest" />
+        <item itemvalue="JUnit.IsogramsTest.dermatoglyphicsTestGivesTrue" />
+        <item itemvalue="JUnit.IsogramsTest.isogramStringTest" />
+        <item itemvalue="Application.KwadratyLiczbZJednejTablicyDoDrugiej" />
+        <item itemvalue="JUnit.FromTheMinimumTest.withDuplicatesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +500,9 @@
       <workItem from="1535228620819" duration="450000" />
       <workItem from="1535258233844" duration="1335000" />
       <workItem from="1535567147549" duration="52000" />
-      <workItem from="1535567276034" duration="1821000" />
+      <workItem from="1535567276034" duration="2311000" />
+      <workItem from="1535655004578" duration="3394000" />
+      <workItem from="1536160076172" duration="6261000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1534874084582</created>
@@ -490,49 +546,56 @@
       <option name="project" value="LOCAL" />
       <updated>1535227883146</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="kyu 8 - Twice as old">
+      <created>1535569370942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1535569370942</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveNExclamationMarksFromLeftTest_remove3exclamationsMethodTwo - 2018.08.24 at 20h 42m 30s.xml">
-      <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" configurationId="JUnit" />
+    <history-entry file="IsogramsTest - 2018.09.07 at 17h 43m 40s.xml">
+      <configuration name="IsogramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveNExclamationMarksFromLeftTest_remove3exclamationsMethodTwo - 2018.08.24 at 20h 42m 42s.xml">
-      <configuration name="RemoveNExclamationMarksFromLeftTest.remove3exclamationsMethodTwo" configurationId="JUnit" />
+    <history-entry file="IsogramsTest - 2018.09.07 at 17h 44m 53s.xml">
+      <configuration name="IsogramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest_testPositiveAge - 2018.08.29 at 20h 38m 49s.xml">
-      <configuration name="TwiceAsOldTest.testPositiveAge" configurationId="JUnit" />
+    <history-entry file="IsogramsTest_dermatoglyphicsTestGivesTrue - 2018.09.07 at 17h 45m 15s.xml">
+      <configuration name="IsogramsTest.dermatoglyphicsTestGivesTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest_testPositiveAge - 2018.08.29 at 20h 41m 32s.xml">
-      <configuration name="TwiceAsOldTest.testPositiveAge" configurationId="JUnit" />
+    <history-entry file="IsogramsTest_dermatoglyphicsTestGivesTrue - 2018.09.07 at 17h 45m 57s.xml">
+      <configuration name="IsogramsTest.dermatoglyphicsTestGivesTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest - 2018.08.29 at 20h 42m 52s.xml">
-      <configuration name="TwiceAsOldTest" configurationId="JUnit" />
+    <history-entry file="IsogramsTest_dermatoglyphicsTestGivesTrue - 2018.09.07 at 17h 46m 48s.xml">
+      <configuration name="IsogramsTest.dermatoglyphicsTestGivesTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest - 2018.08.29 at 20h 52m 24s.xml">
-      <configuration name="TwiceAsOldTest" configurationId="JUnit" />
+    <history-entry file="IsogramsTest - 2018.09.07 at 17h 46m 54s.xml">
+      <configuration name="IsogramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest - 2018.08.29 at 20h 53m 55s.xml">
-      <configuration name="TwiceAsOldTest" configurationId="JUnit" />
+    <history-entry file="IsogramsTest_dermatoglyphicsTestGivesTrue - 2018.09.07 at 17h 47m 36s.xml">
+      <configuration name="IsogramsTest.dermatoglyphicsTestGivesTrue" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest_bothZeroAge - 2018.08.29 at 20h 54m 28s.xml">
-      <configuration name="TwiceAsOldTest.bothZeroAge" configurationId="JUnit" />
+    <history-entry file="IsogramsTest - 2018.09.07 at 17h 47m 40s.xml">
+      <configuration name="IsogramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest_oneIsLessThanZero - 2018.08.29 at 20h 55m 08s.xml">
-      <configuration name="TwiceAsOldTest.oneIsLessThanZero" configurationId="JUnit" />
+    <history-entry file="IsogramsTest - 2018.09.07 at 17h 48m 37s.xml">
+      <configuration name="IsogramsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TwiceAsOldTest_oneIsLessThanZero - 2018.08.29 at 20h 56m 15s.xml">
-      <configuration name="TwiceAsOldTest.oneIsLessThanZero" configurationId="JUnit" />
+    <history-entry file="IsogramsTest - 2018.09.07 at 17h 55m 37s.xml">
+      <configuration name="IsogramsTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28056000" />
+    <option name="totallyTimeSpent" value="38201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469798" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21006711" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -602,7 +665,8 @@
     <MESSAGE value="kyu 8 - convert number to String" />
     <MESSAGE value="kyu 8 - Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="kyu 8 - Twice as old" />
+    <option name="LAST_COMMIT_MESSAGE" value="kyu 8 - Twice as old" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/DoIGetABonusTest.java">
@@ -717,30 +781,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/TwiceAsOldTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/KwadratyLiczbZJednejTablicyDoDrugiej.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/FormTheMinimum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu8/TwiceAsOldTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#386#387#0" expanded="true" />
             <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#595#596#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/kyu8/TwiceAsOld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/FromTheMinimumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1464#1658#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/IsogramsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#615#616#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/Isogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
         </state>
       </provider>
     </entry>
