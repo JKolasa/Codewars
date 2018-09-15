@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="calculatorOnline" />
         <module name="Codewars" />
+        <module name="Codilty" />
         <module name="junit-start" />
         <module name="tdd-sklep-wino" />
       </profile>
