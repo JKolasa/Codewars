@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c538518d-3513-4711-bf63-31da8cc936ff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/EqualSidesOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/EqualSidesOfAnArrayTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,38 +22,39 @@
     <session id="1880688535">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="4" />
           <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="6233" />
+          <entry key="java" value="6662" />
           <entry key="txt" value="181" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6233" />
+          <entry key="JAVA" value="6662" />
           <entry key="PLAIN_TEXT" value="194" />
         </counts>
       </usages-collector>
@@ -62,7 +65,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../JAVA SDA Kurs/IdeaProjects/Codility/src/main/java/timeComplexity/FrogJmp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
+            <state relative-caret-position="272">
               <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
@@ -71,32 +74,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/FindDivisorsOfANumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+            <state relative-caret-position="68">
+              <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#491#492#0" expanded="true" />
                 <element signature="e#538#539#0" expanded="true" />
-                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#612#613#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/FindDivisorsOfANumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="385">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kyu6/EqualSidesOfAnArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="74" lean-forward="true" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#259#260#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kyu6/EqualSidesOfAnArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -145,6 +161,8 @@
         <option value="$PROJECT_DIR$/src/main/java/kyu6/PositionsAverage.java" />
         <option value="$PROJECT_DIR$/src/test/java/kyu7/FindDivisorsOfANumberTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/kyu7/FindDivisorsOfANumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kyu6/EqualSidesOfAnArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kyu6/EqualSidesOfAnArray.java" />
       </list>
     </option>
   </component>
@@ -184,8 +202,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,19 +265,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="kyu6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Codewars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codewars" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="kyu7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537036213700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537076707650" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -270,8 +296,8 @@
       <recent name="kyu8" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="kyu7" />
       <recent name="kyu6" />
+      <recent name="kyu7" />
       <recent name="kyu8" />
     </key>
   </component>
@@ -287,99 +313,99 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FindDivisorsOfANumberTest">
-    <configuration name="FindDivisorsOfANumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EqualSidesOfAnArrayTest.emptyArrayReturnsMinusOne">
+    <configuration name="EqualSidesOfAnArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.FindDivisorsOfANumberTest" />
+      <option name="PACKAGE_NAME" value="kyu6" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.EqualSidesOfAnArrayTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDivisorsOfANumberTest.eightDividorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualSidesOfAnArrayTest.emptyArrayReturnsMinusOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.FindDivisorsOfANumberTest" />
-      <option name="METHOD_NAME" value="eightDividorsTest" />
+      <option name="PACKAGE_NAME" value="kyu6" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.EqualSidesOfAnArrayTest" />
+      <option name="METHOD_NAME" value="emptyArrayReturnsMinusOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDivisorsOfANumberTest.oneDividorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualSidesOfAnArrayTest.testReturnMinusOneArrayPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.FindDivisorsOfANumberTest" />
-      <option name="METHOD_NAME" value="oneDividorsTest" />
+      <option name="PACKAGE_NAME" value="kyu6" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.EqualSidesOfAnArrayTest" />
+      <option name="METHOD_NAME" value="testReturnMinusOneArrayPosition" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDivisorsOfANumberTest.return0DividorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualSidesOfAnArrayTest.testReturnOneArrayPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.FindDivisorsOfANumberTest" />
-      <option name="METHOD_NAME" value="return0DividorsTest" />
+      <option name="PACKAGE_NAME" value="kyu6" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.EqualSidesOfAnArrayTest" />
+      <option name="METHOD_NAME" value="testReturnOneArrayPosition" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDivisorsOfANumberTest.sixDividorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EqualSidesOfAnArrayTest.testReturnsSixthArrayPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="kyu7.*" />
+          <option name="PATTERN" value="kyu6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="kyu7" />
-      <option name="MAIN_CLASS_NAME" value="kyu7.FindDivisorsOfANumberTest" />
-      <option name="METHOD_NAME" value="sixDividorsTest" />
+      <option name="PACKAGE_NAME" value="kyu6" />
+      <option name="MAIN_CLASS_NAME" value="kyu6.EqualSidesOfAnArrayTest" />
+      <option name="METHOD_NAME" value="testReturnsSixthArrayPosition" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.FindDivisorsOfANumberTest.sixDividorsTest" />
-      <item itemvalue="JUnit.FindDivisorsOfANumberTest" />
-      <item itemvalue="JUnit.FindDivisorsOfANumberTest.eightDividorsTest" />
-      <item itemvalue="JUnit.FindDivisorsOfANumberTest.return0DividorsTest" />
-      <item itemvalue="JUnit.FindDivisorsOfANumberTest.oneDividorsTest" />
+      <item itemvalue="JUnit.EqualSidesOfAnArrayTest" />
+      <item itemvalue="JUnit.EqualSidesOfAnArrayTest.testReturnMinusOneArrayPosition" />
+      <item itemvalue="JUnit.EqualSidesOfAnArrayTest.testReturnOneArrayPosition" />
+      <item itemvalue="JUnit.EqualSidesOfAnArrayTest.testReturnsSixthArrayPosition" />
+      <item itemvalue="JUnit.EqualSidesOfAnArrayTest.emptyArrayReturnsMinusOne" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FindDivisorsOfANumberTest" />
-        <item itemvalue="JUnit.FindDivisorsOfANumberTest.oneDividorsTest" />
-        <item itemvalue="JUnit.FindDivisorsOfANumberTest.return0DividorsTest" />
-        <item itemvalue="JUnit.FindDivisorsOfANumberTest.eightDividorsTest" />
-        <item itemvalue="JUnit.FindDivisorsOfANumberTest.sixDividorsTest" />
+        <item itemvalue="JUnit.EqualSidesOfAnArrayTest.emptyArrayReturnsMinusOne" />
+        <item itemvalue="JUnit.EqualSidesOfAnArrayTest.testReturnsSixthArrayPosition" />
+        <item itemvalue="JUnit.EqualSidesOfAnArrayTest.testReturnOneArrayPosition" />
+        <item itemvalue="JUnit.EqualSidesOfAnArrayTest.testReturnMinusOneArrayPosition" />
+        <item itemvalue="JUnit.EqualSidesOfAnArrayTest" />
       </list>
     </recent_temporary>
   </component>
@@ -408,7 +434,8 @@
       <workItem from="1536160076172" duration="15338000" />
       <workItem from="1536692987844" duration="238000" />
       <workItem from="1536693297080" duration="4327000" />
-      <workItem from="1536867725795" duration="4864000" />
+      <workItem from="1536867725795" duration="5621000" />
+      <workItem from="1537073659724" duration="2577000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1534874084582</created>
@@ -484,44 +511,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindDivisorsOfANumberTest - 2018.09.15 at 08h 46m 19s.xml">
-      <configuration name="FindDivisorsOfANumberTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest_testReturnsFirstArrayPosition - 2018.09.16 at 07h 35m 37s.xml">
+      <configuration name="EqualSidesOfAnArrayTest.testReturnsFirstArrayPosition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest - 2018.09.15 at 08h 47m 22s.xml">
-      <configuration name="FindDivisorsOfANumberTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest_testReturnsMinusOneArrayPosition - 2018.09.16 at 07h 36m 35s.xml">
+      <configuration name="EqualSidesOfAnArrayTest.testReturnsMinusOneArrayPosition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest - 2018.09.15 at 08h 47m 26s.xml">
-      <configuration name="FindDivisorsOfANumberTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest_testReturnNumberThreeArrayPosition - 2018.09.16 at 07h 37m 28s.xml">
+      <configuration name="EqualSidesOfAnArrayTest.testReturnNumberThreeArrayPosition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest - 2018.09.15 at 08h 47m 40s.xml">
-      <configuration name="FindDivisorsOfANumberTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest - 2018.09.16 at 07h 37m 49s.xml">
+      <configuration name="EqualSidesOfAnArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest_eightDividorsTest - 2018.09.15 at 08h 48m 49s.xml">
-      <configuration name="FindDivisorsOfANumberTest.eightDividorsTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest - 2018.09.16 at 07h 39m 39s.xml">
+      <configuration name="EqualSidesOfAnArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest_return0DividorsTest - 2018.09.15 at 08h 49m 20s.xml">
-      <configuration name="FindDivisorsOfANumberTest.return0DividorsTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest - 2018.09.16 at 07h 39m 59s.xml">
+      <configuration name="EqualSidesOfAnArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest_return0DividorsTest - 2018.09.15 at 08h 49m 37s.xml">
-      <configuration name="FindDivisorsOfANumberTest.return0DividorsTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest - 2018.09.16 at 07h 40m 55s.xml">
+      <configuration name="EqualSidesOfAnArrayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest_return0DividorsTest - 2018.09.15 at 08h 50m 17s.xml">
-      <configuration name="FindDivisorsOfANumberTest.return0DividorsTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest_testReturnMinusOneArrayPosition - 2018.09.16 at 07h 41m 49s.xml">
+      <configuration name="EqualSidesOfAnArrayTest.testReturnMinusOneArrayPosition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest_oneDividorsTest - 2018.09.15 at 08h 50m 43s.xml">
-      <configuration name="FindDivisorsOfANumberTest.oneDividorsTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest_testReturnOneArrayPosition - 2018.09.16 at 07h 42m 24s.xml">
+      <configuration name="EqualSidesOfAnArrayTest.testReturnOneArrayPosition" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindDivisorsOfANumberTest - 2018.09.15 at 08h 53m 38s.xml">
-      <configuration name="FindDivisorsOfANumberTest" configurationId="JUnit" />
+    <history-entry file="EqualSidesOfAnArrayTest_testReturnsSixthArrayPosition - 2018.09.16 at 07h 43m 03s.xml">
+      <configuration name="EqualSidesOfAnArrayTest.testReturnsSixthArrayPosition" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56707000" />
+    <option name="totallyTimeSpent" value="60041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2181208" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22147651" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -531,12 +559,12 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44113475" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27092198" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.27092198" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
@@ -803,13 +831,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../JAVA SDA Kurs/IdeaProjects/Codility/src/main/java/timeComplexity/FrogJmp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -817,24 +838,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../JAVA SDA Kurs/IdeaProjects/Codility/src/main/java/timeComplexity/FrogJmp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/kyu7/FindDivisorsOfANumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="68">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#491#492#0" expanded="true" />
             <element signature="e#538#539#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -842,7 +860,26 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/kyu7/FindDivisorsOfANumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kyu6/EqualSidesOfAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kyu6/EqualSidesOfAnArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="74" lean-forward="true" selection-start-line="10" selection-start-column="74" selection-end-line="10" selection-end-column="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
